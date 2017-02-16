@@ -6,7 +6,7 @@ import java.util.Set;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import pt.ulisboa.tecnico.softeng.broker.domain.exception.BrokerException;
+import pt.ulisboa.tecnico.softeng.broker.exception.BrokerException;
 
 public class Broker {
 	private static Logger logger = LoggerFactory.getLogger(Broker.class);

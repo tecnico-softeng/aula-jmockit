@@ -1,4 +1,4 @@
-package pt.ulisboa.tecnico.softeng.broker.domain.exception;
+package pt.ulisboa.tecnico.softeng.broker.exception;
 
 public class BrokerException extends RuntimeException {
 

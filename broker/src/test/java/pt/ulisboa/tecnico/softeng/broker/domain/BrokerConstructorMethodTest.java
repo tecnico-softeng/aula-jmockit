@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Test;
 
-import pt.ulisboa.tecnico.softeng.broker.domain.exception.BrokerException;
+import pt.ulisboa.tecnico.softeng.broker.exception.BrokerException;
 
 public class BrokerConstructorMethodTest {
 
